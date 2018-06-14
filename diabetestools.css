@@ -1,0 +1,166 @@
+
+body
+{
+	font-family:	Verdana, Arial, sans-serif;
+}
+
+h1
+{
+	margin:			1em;
+	font-family: 	Arial, Helvetica, sans-serif;
+}
+
+#formcontainer
+{
+	margin:			1em;
+	width: 			75%;
+	padding: 		1em;
+	border: 		5px solid #000000;
+	overflow: 		hidden;
+}
+
+#bmiqafields
+{
+	padding: 		1em;
+}
+
+.buttonselector1
+{
+	padding-left:	6.2em;
+	display:		inline;
+}
+
+.buttonselector2
+{
+	padding-left:	6.84em;
+	display:		inline;
+}
+
+.buttonselector3
+{
+	padding-left: 	8.25em;
+	display: 		inline;
+}
+
+.buttonselector4
+{
+	padding-left: 	6.7em;
+	display: 		inline;
+}
+
+.buttonselector5
+{
+	padding-left:	6.2em;
+	display:		inline;
+}
+
+.buttonselector6
+{
+	padding-left:	6.84em;
+	display:		inline;
+}
+
+.buttonselector7
+{
+	padding-left:	8.25em;
+	display:		inline;
+}
+
+.buttonselector8
+{
+	padding-left:	6.7em;
+	display:		inline;
+}
+
+.buttonselector9
+{
+	padding-left:	6.9em;
+	display:		inline;
+}
+
+.buttonselector10
+{
+	padding-left:	3.8em;
+	display:		inline;
+}
+
+.buttonselector11
+{
+	padding-left:	7.85em;
+	display:		inline;
+}
+
+.buttonselector12
+{
+	padding-left:	5.4em;
+	display:		inline;
+}
+
+.buttonselector13
+{
+	padding-left:	3.5em;
+	display:		inline;
+}
+
+.buttonselector14
+{
+	padding-left:	3.48em;
+	display:		inline;
+}
+
+.buttonselector15
+{
+	padding-left:	3.5em;
+	display:		inline;
+}
+
+.buttonselector16
+{
+	padding-left:	3.5em;
+	display:		inline;
+}
+
+.rowdivider
+{
+	padding-left: 	1em;
+	display: 		inline;
+}
+
+.question
+{
+	width: 			20%;
+	float:			left;
+	font-family: 	Arial, Helvetica, sans-serif;
+}
+
+#calculatebutton
+{
+	margin: 		1em;
+}
+
+#calcbutton
+{
+	font-family:	Arial, Helvetica, sans-serif;
+	float: 			left;
+	padding: 		0.5em 2em 0.5em 2em;
+	border:			solid 1px;
+	border-radius:	4px;
+}
+
+#answer1,#answer2, #answer3, #answer4, #answer5, #answer6, #answer7, #answer8, #answer9, #answer10, #answer11, 
+#answer12, #answer13, #answer14, #answer15, #answer16
+{
+	display: 		inline;
+	font-family: 	Arial, Helvetica, sans-serif;
+}
+
+#formresultstext
+{
+	font-family:	Arial, Helvetica, sans-serif;
+	margin:			1em;
+	width: 			75%;
+	padding: 		1em;
+	border: 		1px solid #000000;
+	overflow: 		hidden;
+}
+	
