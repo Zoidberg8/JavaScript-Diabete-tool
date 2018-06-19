@@ -7,3 +7,5 @@ This is build with JavaScript, a contact form linked to the diabete tool has bee
 The diabete tool present present basic JavaScript development, such as radio button, contact form, code reuse, HTML/CSS mark up
 
 :link: [Diabete tool](http://titan.dcs.bbk.ac.uk/~vbomme01/portfolio/JavaScript/diabetetool/project_1/diabetestool.html)
+
+:link: [Contact form] (http://titan.dcs.bbk.ac.uk/%7Evbomme01/portfolio/JavaScript/diabetetool/project_1/contactform.html)
