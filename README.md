@@ -8,6 +8,6 @@ The diabete tool present present basic JavaScript development, such as radio but
 
 :link: [Diabete tool](http://titan.dcs.bbk.ac.uk/~vbomme01/portfolio/javascript/diabetetool/project_1/diabetestool.html)
 
-:link: :clipboard: [Contact form](http://titan.dcs.bbk.ac.uk/%7Evbomme01/portfolio/JavaScript/diabetetool/project_1/contactform.html)
+:link: :clipboard: [Contact form](http://titan.dcs.bbk.ac.uk/~vbomme01/portfolio/javascript/diabetetool/project_1/contactform.html)
 
 
